@@ -25,7 +25,7 @@
 - 📁 Проекты (личный ассистент, массаж, digital-агентство)
 - 📁 Профиль (планирование, здоровье, семья)
 
-![Граф знаний Obsidian](obsidian-graph.png)
+![Граф знаний Obsidian]
 <img width="1897" height="945" alt="image" src="https://github.com/user-attachments/assets/332101aa-05e9-4f59-b970-30d5d092b0d1" />
 
 ---
@@ -49,7 +49,10 @@
 исследований (МРТ, УЗИ) формирует структурированную 
 карту пациента для работы с конкретным диагнозом.
 
-![Пример промпта](prompt-example.png)
+![Пример промпта]
+<img width="1720" height="886" alt="image" src="https://github.com/user-attachments/assets/ca2174a6-4553-408e-88b3-ef95cf945a7f" />
+<img width="1025" height="652" alt="image" src="https://github.com/user-attachments/assets/2b081a09-85fb-4275-9046-e8d0d732bea5" />
+
 
 ---
 
