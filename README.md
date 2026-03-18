@@ -22,11 +22,10 @@
 Структурированная база данных по всем сферам жизни:
 
 - 📁 Знания (веб-разработка, ИИ, реабилитация, языки)
-- 📁 Проекты (личный ассистент, массаж-реабилитация, digital-агентство)
+- 📁 Проекты (личный ассистент, массаж, digital-агентство)
 - 📁 Профиль (планирование, здоровье, семья)
 
-![Граф знаний Obsidian](<img width="1897" height="945" alt="image" src="https://github.com/user-attachments/assets/c564d846-c9f5-4d28-b8d6-72b4c778e8a4" />
-)
+![Граф знаний Obsidian](obsidian-graph.png)
 
 ---
 
@@ -49,13 +48,8 @@
 исследований (МРТ, УЗИ) формирует структурированную 
 карту пациента для работы с конкретным диагнозом.
 
-![Пример промпта](<img width="1720" height="886" alt="image" src="https://github.com/user-attachments/assets/69395690-a594-4b46-97bb-13ba00f22018" />
-)
+![Пример промпта](prompt-example.png)
 
-![Пример промпта](<img width="1025" height="652" alt="image" src="https://github.com/user-attachments/assets/9ebe9c4b-bf4e-4449-8078-e89b9d3ecd27" />
-)
-![Пример промпта](![Uploading image.png…]()
-)
 ---
 
 ## Результат
@@ -72,4 +66,10 @@
 - [ ] Интеграция с веб-проектами
 - [ ] n8n сценарии
 - [ ] Fullstack разработчик (JS, PHP, Python)
+
+<img width="1897" height="945" alt="image" src="https://github.com/user-attachments/assets/7981904c-8826-47e9-a59c-1dcd9d08a7d8" />
+<img width="1720" height="886" alt="image" src="https://github.com/user-attachments/assets/d5f56750-7666-491f-a2d0-e65ae8ed936b" />
+<img width="1025" height="652" alt="image" src="https://github.com/user-attachments/assets/c1a34199-3069-4ebc-b995-913d2da11988" />
+
+
 
