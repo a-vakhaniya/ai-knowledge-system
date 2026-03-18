@@ -25,8 +25,8 @@
 - 📁 Проекты (личный ассистент, массаж, digital-агентство)
 - 📁 Профиль (планирование, здоровье, семья)
 
-![Граф знаний Obsidian](<img width="1897" height="945" alt="image" src="https://github.com/user-attachments/assets/3aee7b9a-1d9f-4e4c-9e2b-aa2543b5969a" />
-)
+![Граф знаний Obsidian](obsidian-graph.png)
+<img width="1897" height="945" alt="image" src="https://github.com/user-attachments/assets/332101aa-05e9-4f59-b970-30d5d092b0d1" />
 
 ---
 
